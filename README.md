@@ -1,3 +1,7 @@
+[![Build Status](https://dev.azure.com/zhuby1973/Hans_DevOps/_apis/build/status/zhuby1973.ContosoAir?branchName=master)](https://dev.azure.com/zhuby1973/Hans_DevOps/_build/latest?definitionId=4&branchName=master)
+
+
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
